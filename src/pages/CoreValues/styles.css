@@ -1,0 +1,48 @@
+.coreValues {
+    background-color: #F8F8F8;
+}
+
+.coreValues__heading {
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-block: 0;
+    padding: 56px 0 24px 0;
+    text-align: center;
+    color: #029FE4;
+}
+
+.coreValues__text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-block: 0;
+    padding: 0 25px 34px 35px;
+    color: #777777;
+}
+
+.coreValues__items {
+    margin: 0 15px 28px 15px;
+}
+
+.coreValues__item {
+    display: flex;
+    margin-bottom: 24px;
+}
+
+.coreValues__line {
+    display: block;
+    height: 2px;
+    width: 50px;
+    background-color: #747474;
+    margin-inline: 0;
+    margin-top: 18px;
+    margin-right: 18px;
+    outline: none;
+    text-decoration: none;
+    border: 0;
+}
+
+.coreValues__image {
+    text-align: right;
+}

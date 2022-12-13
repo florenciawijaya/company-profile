@@ -1,0 +1,60 @@
+.speciality {
+    background-color: #509FDD;
+    padding: 35px 20px 47px 20px;
+}
+
+.speciality__inner {
+    background-color: white;
+    padding: 42px 28px 55px 28px;
+}
+
+.speciality__heading {
+    color: #029FE4;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    margin-block: 0;
+    margin-bottom: 3px;
+}
+
+.speciality__desc {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+    color: #303030;
+}
+
+.speciality__desc--grey {
+    color: #A7A7A7;
+    text-align: center;
+    margin-block: 0;
+    margin: 40px 0;
+}
+
+.speciality__pagination {
+    display: flex;
+    justify-content: space-between;
+}
+
+.speciality__pages {
+    display: flex;
+}
+
+.speciality__page {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #F5F5F5;
+    display: inline-block;
+    margin-right: 16px;
+}
+
+.speciality__page--active {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid #3D46A2;
+    background-color: #F5F5F5;
+    display: inline-block;
+    margin-right: 16px;
+}
