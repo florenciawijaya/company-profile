@@ -43,6 +43,10 @@
     border: 0;
 }
 
-.coreValues__image {
+.coreValues__imageContainer {
     text-align: right;
+}
+
+.coreValues__image {
+    max-width: 100%;
 }

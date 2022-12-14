@@ -27,8 +27,8 @@ const CoreValues = () => {
                 ))}
             </section>
 
-            <section className="coreValues__image">
-                <img src={coreValuesIllus} alt="Core Values" />
+            <section className="coreValues__imageContainer">
+                <img src={coreValuesIllus} alt="Core Values" className="coreValues__image" />
             </section>
         </div>
     )
